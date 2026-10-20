@@ -50,7 +50,39 @@ The target design evaluates Entra Government identity, GCC High SharePoint stora
 
 ## Evidence
 
-Eight local Power Automate screenshots were captured during the hands-on phase. Public redacted evidence can be added to `screenshots/` after privacy review. Screenshots are intentionally not linked here until uploaded.
+Eight screenshots from the commercial Power Automate training workflow are provided below. These demonstrate workflow execution rather than GCC High deployment.
+
+### Classification allowlist — PUBLIC
+
+![Classification allowlist — PUBLIC](lab4-public-classification-approved-test.png)
+
+### Classification rejection — CUI
+
+![Classification rejection — CUI](lab4-cui-classification-rejected-test.png)
+
+### Human approval request delivered
+
+![Human approval request delivered](lab4-human-approval-request-received.png)
+
+### Human approval accepted
+
+![Human approval accepted](lab4-human-approval-approved-test.png)
+
+### Human approval rejected
+
+![Human approval rejected](lab4-human-approval-rejected-test.png)
+
+### Approved decision audit
+
+![Approved decision audit](lab4-dynamic-approval-audit-record.png)
+
+### Rejected decision audit
+
+![Rejected decision audit](lab4-rejected-approval-audit-record.png)
+
+### Classification rejection audit and termination
+
+![Classification rejection audit and termination](lab4-classification-rejection-final-test.png)
 
 ## Production readiness
 
